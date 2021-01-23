@@ -4,4 +4,8 @@ Currently it just supports the MIT licsense, and this is a very small project th
 
 ## Build and install
 
-Run `jpm build` to create the `spit-mit` executable, and then copy said exectuable on to your path. 
+Run `jpm build` to create the `spit-mit` executable in `/build`, and then copy said exectuable on to your path. 
+
+## Running
+
+Just type `spit-mit` to create a LISCENSE.md file in the current directory
